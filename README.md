@@ -9,7 +9,7 @@ We used R and RStudio on Windows to complete this analysis. We used the ggplot2,
 | ------             | ------         |
 | DATA              |   data_appendix_cs3.pdf, final_data.csv, initial_data.md    |
 | OUTPUT              | dawnforecast.png, dayforecast.png, duskforecast.png, nightforecast.png, timeofdayplot.png, timeofdayandyearplot.png, yearplot.png          |
-| REFERENCES          | G4G_TSA_in_R.pdf, bird_strike_article.pdf,  references.md |
+| REFERENCES          | CS3 Hook Document.pdf, G4G_TSA_in_R.pdf, bird_strike_article.pdf,  references.md |
 | SCRIPTS              | complete_script.rmd          |
 
 # Section 3: Instructions for Reproducing Results. 
