@@ -14,6 +14,7 @@ library(ggplot2)
 
 # Reading in dataset
 
+### set to YOUR working directory
 setwd("C:/Users/Bella/OneDrive - University of Virginia/Documents/Documents/UVA fourth year/DS4002")
 birdstrikes <- read.csv("STRIKE_REPORTS.csv")
 ```
